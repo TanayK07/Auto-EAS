@@ -1,0 +1,7 @@
+title: Automated Build and Upload Script
+description: Automate app builds and uploads to Google Drive with EAS and rclone.
+theme: minima
+url: "https://tanayk07.github.io/automated-build-upload"
+author: Tanay Kumar
+keywords: EAS Build Automation, Upload APK to Google Drive, rclone, automation scripts, APK renaming
+language: en
